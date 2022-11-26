@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="428312b0-67c5-4ca6-bf2e-21916f6f21c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labrass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zd9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I4gr3fAfPHhW4Zx8bhYzSa8Ppz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.zd15">
+    <configuration name="zd11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zd11" />
+      <module name="labrass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zd12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zd12" />
+      <module name="labrass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zd13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zd13" />
+      <module name="labrass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zd14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zd14" />
+      <module name="labrass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zd15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zd15" />
+      <module name="labrass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.zd15" />
+        <item itemvalue="Application.zd14" />
+        <item itemvalue="Application.zd13" />
+        <item itemvalue="Application.zd12" />
+        <item itemvalue="Application.zd11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="428312b0-67c5-4ca6-bf2e-21916f6f21c1" name="Changes" comment="" />
+      <created>1669446466982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669446466982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
